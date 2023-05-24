@@ -1,0 +1,10 @@
+A function rename_folders_in_locations_with_log was called on 2023-05-12 10:16:02.811490
+Function was called for:
+(), {}
+Function returned:
+[]
+A function rename_folders_in_locations_with_log was called on 2023-05-12 10:18:04.746936
+Function was called for:
+(), {}
+Function returned:
+['C:\\Users\\Patryk\\Desktop\\Git repo\\Python Projects\\Rename folders with creation date\\example folder', 'C:\\Users\\Patryk\\Desktop\\Git repo\\Python Projects\\Rename folders with creation date\\example folder2']
